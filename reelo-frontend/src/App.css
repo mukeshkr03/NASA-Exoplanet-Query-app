@@ -1,0 +1,31 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+*{
+  margin : 0;
+  font-family: sans-serif;
+}
+
+.table{
+  margin : 35px;
+  margin-top: 18px;
+  height : calc(100vh - 150px);
+  border-radius : 10px;
+}
+
+.body{
+  min-height: 100vh; width : 100vw;
+  background-image : URL("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/space-galaxy-background-sololos.jpg")
+}
+
+.span{
+  color : #2d2dd9
+}
+
+button {
+  background : "#0096ff";
+}
